@@ -54,4 +54,13 @@
 
     <!-- Show navbar -->
     <string name="navigation_bar_enabled_title">Activare</string>
+    
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Informații despre încărcare pe ecranul de blocare</string>
+    <string name="lockscreen_battery_info_summary">Afișați curentul, tensiunea și temperatura bateriei pe ecranul de blocare în timpul încărcării</string>
+
+    <!-- Double Tap Lockscreen to Sleep -->
+    <string name="double_tap_to_sleep_lockscreen_title">Ecran de blocare</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Atingeți dublu pe a treia parte de sus sau de jos a ecranului de blocare pentru a pune dispozitivul în stare de repaus</string>
+
 </resources> 
