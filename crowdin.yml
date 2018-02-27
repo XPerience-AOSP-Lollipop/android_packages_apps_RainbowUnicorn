@@ -1,0 +1,5 @@
+files:
+  - source: xperience_string
+    translation: /%original_path%-%android_code%/%original_file_name%
+    translatable_elements:
+      - res/values/xperience_strings.xml
